@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nishan.
 
-[![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishan-soni)](https://github.com/anuraghazra/github-readme-stats)
+![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishan-soni&show_icons=true&theme=tokyonight)
 
 ## Languages and tools I have worked with.
 
