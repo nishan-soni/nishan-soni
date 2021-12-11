@@ -6,8 +6,8 @@
 
 <img height="32" align = 'left' width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 <img height="32" align = 'left' width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img height="32" align = 'left' width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" />
-<img height="32" align = 'left' width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg" />
+<img height="32" align = 'left' width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img height="32" align = 'left' width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 <img height="32" align = 'left' width="32" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img height="32" align = 'left' width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img height="32" align = 'left' width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
