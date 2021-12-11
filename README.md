@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Nishan.
+### Hello there, I'm Nishan.
 
 ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishan-soni&show_icons=true&theme=tokyonight)
 
