@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Nishan.
+
+[![Github](https://img.shields.io/github/followers/nishan-soni?label=Follow&style=social)](https://github.com/nishan-soni)
 
 <!--
 **nishan-soni/nishan-soni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
