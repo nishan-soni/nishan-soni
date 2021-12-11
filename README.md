@@ -1,12 +1,14 @@
 ### Hi there 👋, I'm Nishan.
 
-![](https://visitor-badge.laobi.icu/badge?page_id=nishan-soni.nishan-soni)
+[![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishan-soni)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **nishan-soni/nishan-soni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+![](https://visitor-badge.laobi.icu/badge?page_id=nishan-soni.nishan-soni)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
